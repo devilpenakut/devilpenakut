@@ -59,4 +59,7 @@
     "heroku-postbuild": "gatsby build",
     "cleanup-repository": "rimraf bin contentful && yarn remove contentful-import chalk inquirer rimraf "
   }
+  "resolutions": {
+    "tar-fs": "^1.16.5"
+  }
 }
