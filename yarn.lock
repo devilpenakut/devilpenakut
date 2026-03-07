@@ -6610,9 +6610,10 @@ imagemin@^6.0.0:
     pify "^3.0.0"
     replace-ext "^1.0.0"
 
-immutable@~3.7.6:
-  version "3.7.6"
-  resolved "https://registry.npmjs.org/immutable/-/immutable-3.7.6.tgz#13b4d3cb12befa15482a26fe1b2ebae640071e4b"
+immutable@^4.3.0, immutable@~3.7.6:
+  version "4.3.8"
+  resolved "https://registry.npmjs.org/immutable/-/immutable-4.3.8.tgz#02d183c7727fb2bb1d5d0380da0d779dce9296a7"
+  integrity sha512-d/Ld9aLbKpNwyl0KiM2CT1WYvkitQ1TSvmRtkcV8FKStiDoA7Slzgjmb/1G2yhKM1p0XeNOieaTbFZmU1d3Xuw==
 
 import-cwd@^2.0.0:
   version "2.1.0"

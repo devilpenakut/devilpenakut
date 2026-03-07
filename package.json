@@ -20,6 +20,7 @@
     "sharp": "^0.32.6"
   },
   "devDependencies": {
+    "immutable": "^4.3.0",
     "babel-eslint": "^10.0.1",
     "chalk": "^2.4.2",
     "contentful-import": "^7.4.3",
@@ -60,6 +61,7 @@
     "cleanup-repository": "rimraf bin contentful && yarn remove contentful-import chalk inquirer rimraf "
   },
   "resolutions": {
-    "tar-fs": "^1.16.5"
+    "tar-fs": "^1.16.5",
+    "immutable": "^4.3.0"
   }
 }
