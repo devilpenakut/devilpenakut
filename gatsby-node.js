@@ -24,6 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
         if (result.errors) {
           console.log(result.errors)
           reject(result.errors)
+          return
         }
 
         const posts = result.data.allContentfulBlogPost.edges
@@ -36,7 +37,7 @@ exports.createPages = ({ graphql, actions }) => {
             },
           })
         })
-      })
+      }).catch(reject)
     )
   })
 }
