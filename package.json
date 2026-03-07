@@ -20,6 +20,7 @@
     "sharp": "^0.32.6"
   },
   "devDependencies": {
+    "immutable": "^4.3.0",
     "babel-eslint": "^10.0.1",
     "chalk": "^2.4.2",
     "contentful-import": "^7.4.3",
