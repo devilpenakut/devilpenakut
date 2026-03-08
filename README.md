@@ -31,8 +31,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilpenakut&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilpenakut&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devilpenakut&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devilpenakut&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilpenakut&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ---
