@@ -62,6 +62,7 @@
   },
   "resolutions": {
     "tar-fs": "^1.16.5",
-    "immutable": "^4.3.0"
+    "immutable": "^4.3.0",
+    "tar": "^6.0.0"
   }
 }
