@@ -1,6 +1,0 @@
-{
-  "framework": "gatsby",
-  "buildCommand": "gatsby build",
-  "outputDirectory": "public",
-  "installCommand": "yarn install"
-}
